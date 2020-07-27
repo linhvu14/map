@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85122,
+                    21.02737
+                ]
+            },
+            "properties": {
+                "Address": "Ho Guom Xanh, Phố Lê Thái Tổ 32, Quận Hoàn Kiếm, Vietnam",
+                "name": "Ho Guom Xanh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84393,
+                    21.02522
+                ]
+            },
+            "properties": {
+                "Address": "Rooftop Bar, Phố Lý Thường Kiệt 83B, Quận Hoàn Kiếm, Vietnam",
+                "name": "Rooftop Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83951,
+                    21.01891
+                ]
+            },
+            "properties": {
+                "Address": "Cháo Súp Linh Hoa, Ngõ Chợ Phố Khâm Thiên, Quận Đống Đa, Vietnam",
+                "name": "Cháo Súp Linh Hoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83351,
+                    21.01524
+                ]
+            },
+            "properties": {
+                "Address": "Karaoke Verad 334 Xã Đàn - Hà Nội, Phố Xã Đàn 404, Quận Đống Đa, Vietnam",
+                "name": "Karaoke Verad 334 Xã Đàn - Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82823,
+                    21.02959
+                ]
+            },
+            "properties": {
+                "Address": "pullman Hanoi, Phố Cát Linh, Quận Đống Đa, Vietnam",
+                "name": "pullman Hanoi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.838,
+                    21.03046
+                ]
+            },
+            "properties": {
+                "Address": "Bar Betta, Phố Cao Bá Quát 34C, Quận Ba Đình, Vietnam",
+                "name": "Bar Betta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85373,
+                    21.01579
+                ]
+            },
+            "properties": {
+                "Address": "Bar-Karaoke Song Hà, Phố Phù Đổng Thiên Vương 29A, Quận Hai Bà Trưng, Vietnam",
+                "name": "Bar-Karaoke Song Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81708,
+                    21.03232
+                ]
+            },
+            "properties": {
+                "Address": "Hutong van Phuc, Phố Vạn Bảo, Quận Ba Đình, Vietnam",
+                "name": "Hutong van Phuc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8192,
+                    21.02276
+                ]
+            },
+            "properties": {
+                "Address": "Newsphinx Beer Bar, Phố Láng Hạ 2, Quận Ba Đình, Vietnam",
+                "name": "Newsphinx Beer Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8441,
+                    21.04613
+                ]
+            },
+            "properties": {
+                "Address": "Hero Bar, Đường Yên Phụ 42M, Quận Ba Đình, Vietnam",
+                "name": "Hero Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84819,
+                    21.02059
+                ]
+            },
+            "properties": {
+                "Address": "Popeye, Phố Quang Trung 37, Quận Hoàn Kiếm, Vietnam",
+                "name": "Popeye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81791,
+                    21.00449
+                ]
+            },
+            "properties": {
+                "Address": "Hương Cafe, Đường Láng, Quận Đống Đa, Vietnam",
+                "name": "Hương Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84482,
+                    21.03406
+                ]
+            },
+            "properties": {
+                "Address": "Cafe 69, Phố Lý Nam Đế 69, Quận Hoàn Kiếm, Vietnam",
+                "name": "Cafe 69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85386,
+                    21.03224
+                ]
+            },
+            "properties": {
+                "Address": "Lucky Bar - Restaurant - Cafe, Phố Hàng Bè, Quận Hoàn Kiếm, Vietnam",
+                "name": "Lucky Bar - Restaurant - Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84867,
+                    21.03391
+                ]
+            },
+            "properties": {
+                "Address": "Greet, Phố Hàng Bồ 62, Quận Hoàn Kiếm, Vietnam",
+                "name": "Greet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81998,
+                    21.02978
+                ]
+            },
+            "properties": {
+                "Address": "Cafe Be One, Phố Trần Huy Liệu, Quận Ba Đình, Vietnam",
+                "name": "Cafe Be One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85868,
+                    21.00934
+                ]
+            },
+            "properties": {
+                "Address": "Bia Sanh Dieu Craft Beer Bar, Đường Trần Khát Chân 322, Quận Hai Bà Trưng, Vietnam",
+                "name": "Bia Sanh Dieu Craft Beer Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82711,
+                    21.03422
+                ]
+            },
+            "properties": {
+                "Address": "Ete Resto Cafe, Phố Giang Văn Minh 95, Quận Ba Đình, Vietnam",
+                "name": "Ete Resto Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85398,
+                    21.02226
+                ]
+            },
+            "properties": {
+                "Address": "Lounge Vedette, Phố Lý Thường Kiệt 27, Quận Hoàn Kiếm, Vietnam",
+                "name": "Lounge Vedette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84776,
+                    21.02026
+                ]
+            },
+            "properties": {
+                "Address": "Relax 2, Phố Trần Quốc Toản 58B, Quận Hoàn Kiếm, Vietnam",
+                "name": "Relax 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81918,
+                    21.0223
+                ]
+            },
+            "properties": {
+                "Address": "Tiffin All Day Dining, Phố Láng Hạ, Quận Ba Đình, Vietnam",
+                "name": "Tiffin All Day Dining"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85831,
+                    21.02473
+                ]
+            },
+            "properties": {
+                "Address": "Maipo, Phố Tràng Tiền, Quận Hoàn Kiếm, Vietnam",
+                "name": "Maipo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8498,
+                    21.03294
+                ]
+            },
+            "properties": {
+                "Address": "Green Mango, Phố Hàng Quạt, Quận Hoàn Kiếm, Vietnam",
+                "name": "Green Mango"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84123,
+                    21.05572
+                ]
+            },
+            "properties": {
+                "Address": "Chez Xuan, Ngõ 76 Phố An Dương, Quận Tây Hồ, Vietnam",
+                "name": "Chez Xuan"
+            }
+        }
+    ]
+}
