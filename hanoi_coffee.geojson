@@ -1,0 +1,380 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84945692708,
+                    21.028915039861
+                ]
+            },
+            "properties": {
+                "id": "1944864358893422",
+                "name": "Cộng Coffe 27 Nhà Thờ - Hà Nội",
+                "link": "https://www.facebook.com/1944864355560089"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84686618959,
+                    21.032640180197
+                ]
+            },
+            "properties": {
+                "id": "610716259042550",
+                "name": "Cộng Coffe 54 Hàng Điếu Hà Nội",
+                "link": "https://www.facebook.com/610716242375885"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85163959028,
+                    21.031964036701
+                ]
+            },
+            "properties": {
+                "id": "1310287469039464",
+                "name": "Hightland Coffe Bờ Hồ",
+                "link": "https://www.facebook.com/1310287459039465"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85161111918,
+                    21.031860892857
+                ]
+            },
+            "properties": {
+                "id": "374141609357032",
+                "name": "Hightland Coffe Bờ Hồ",
+                "link": "https://www.facebook.com/374141592690367"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85570794516,
+                    21.026029502575
+                ]
+            },
+            "properties": {
+                "id": "1298387023512336",
+                "name": "La Terrasse du Metropole Coffe Hanoi",
+                "link": "https://www.facebook.com/1298387013512337"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.856646582,
+                    21.023603438
+                ]
+            },
+            "properties": {
+                "id": "295413857219076",
+                "name": "Paris Deli Coffe",
+                "link": "https://www.facebook.com/295413837219078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.850226556,
+                    21.029178784876
+                ]
+            },
+            "properties": {
+                "id": "505310592839396",
+                "name": "Hingland Coffe",
+                "link": "https://www.facebook.com/505310576172731"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85875928402,
+                    21.026172190521
+                ]
+            },
+            "properties": {
+                "id": "831628093614944",
+                "name": "36+ Lab & Coffe - Zone5",
+                "link": "https://www.facebook.com/816423431802077"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85521187319,
+                    21.025377071827
+                ]
+            },
+            "properties": {
+                "id": "752679564918089",
+                "name": "T.coffe 14 Ngô Quyền",
+                "link": "https://www.facebook.com/752679554918090"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8529218693,
+                    21.025771001589
+                ]
+            },
+            "properties": {
+                "id": "299700500052304",
+                "name": "L'étage Coffe",
+                "link": "https://www.facebook.com/299700480052306"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85466956816,
+                    21.025247538391
+                ]
+            },
+            "properties": {
+                "id": "970087983339169",
+                "name": "Otree Coffe Số 2 Nguyễn Xí",
+                "link": "https://www.facebook.com/970087980005836"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85020303726,
+                    21.029071352546
+                ]
+            },
+            "properties": {
+                "id": "163838497120406",
+                "name": "Higland Coffe Nhà Thờ",
+                "link": "https://www.facebook.com/163838483787074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.853598313,
+                    21.027216474
+                ]
+            },
+            "properties": {
+                "id": "1740324236265319",
+                "name": "Highland Coffe Xala",
+                "link": "https://www.facebook.com/1740324219598654"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85464,
+                    21.02889
+                ]
+            },
+            "properties": {
+                "id": "101030081540973",
+                "name": "T.W & COFFE",
+                "link": "https://www.facebook.com/101029924874322"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84999540366,
+                    21.029007082663
+                ]
+            },
+            "properties": {
+                "id": "268632393206260",
+                "name": "Highlands Coffe Nhà Thờ",
+                "link": "https://www.facebook.com/268632373206262"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85638286136,
+                    21.028490558499
+                ]
+            },
+            "properties": {
+                "id": "137700553104944",
+                "name": "Trung Nguyen Coffe",
+                "link": "https://www.facebook.com/137700539771612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85,
+                    21.0333
+                ]
+            },
+            "properties": {
+                "id": "1669072686552382",
+                "name": "Highland Coffe IPH 241 Xuân Thuỷ Hà Nội",
+                "link": "https://www.facebook.com/1669072683219049"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85629121335,
+                    21.030557853723
+                ]
+            },
+            "properties": {
+                "id": "205114732948974",
+                "name": "Bar Coffe Hàng Vôi",
+                "link": "https://www.facebook.com/205114709615643"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85126173757,
+                    21.031805796969
+                ]
+            },
+            "properties": {
+                "id": "125294127624015",
+                "name": "Lake View Coffe  - 11 Hang Gai",
+                "link": "https://www.facebook.com/125294110957350"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84909629086,
+                    21.029203205855
+                ]
+            },
+            "properties": {
+                "id": "295630763822668",
+                "name": "La Place Coffe",
+                "link": "https://www.facebook.com/295630737156004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8489477961,
+                    21.025644434111
+                ]
+            },
+            "properties": {
+                "id": "334251656669528",
+                "name": "Trung Nguyen Coffe 52 Hbt",
+                "link": "https://www.facebook.com/334251640002863"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.84879930055,
+                    21.025463201512
+                ]
+            },
+            "properties": {
+                "id": "165117310341704",
+                "name": "Trung Nguyen Coffe Hai Bà Trưng",
+                "link": "https://www.facebook.com/165117283675040"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85209370791,
+                    21.031741379891
+                ]
+            },
+            "properties": {
+                "id": "266902273398372",
+                "name": "Coffe Đinh",
+                "link": "https://www.facebook.com/266902250065041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85015685679,
+                    21.031231356549
+                ]
+            },
+            "properties": {
+                "id": "468863213140426",
+                "name": "Bond Coffe 35 Hàng Hành .!",
+                "link": "https://www.facebook.com/468863199807094"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.85463,
+                    21.033483333333
+                ]
+            },
+            "properties": {
+                "id": "1507577725941719",
+                "name": "Coffe Nắng",
+                "link": "https://www.facebook.com/1507577719275053"
+            }
+        }
+    ]
+}
